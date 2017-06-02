@@ -1,3 +1,3 @@
-READ ME
+## READ ME
 
 Acceptance Specs practice project
