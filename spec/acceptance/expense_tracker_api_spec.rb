@@ -22,3 +22,6 @@ end
 
 # Because  JSON object convert to Ruby hashs, our example also will have string keys
 # ex) instead of {payee: 'Star Bucks'}, it's {'payee' => 'Star Bucks'}
+# used last_response method which is provided by spec
+# expect() to()“check a result in order to signal success or failure. They compare a value—in this case,
+# the HTTP status code returned by last_response.status—using a matcher”
