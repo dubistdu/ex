@@ -6,8 +6,8 @@ module ExpenseTracker
     post '/expenses' do
       JSON.generate('expense_id' => 42)
     end
-    get 'expenses/:date' do
-      JSOn.generate([])
+    get '/expenses/:date' do
+      JSON.generate([])
     end
   end
 end
